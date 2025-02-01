@@ -28,7 +28,7 @@ pip install pillow
    - `mirror_world.jpg`
 3. ▶️ Run the Python script:
 ```sh
-python dark_mansion.py
+python task1.py
 ```
 
 ## 🎮 Controls
